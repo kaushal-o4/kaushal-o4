@@ -14,7 +14,7 @@
 I'm **Kaushal**, a **freelance web developer** from India. I turn real business problems into fast, simple software that people actually use.
 
 - 🏨 Built a **hotel management system** for a real client, **Hotel Lucky**: bookings, front desk, GST billing
-- 🤖 Building **HireSense**, an AI-powered interview & placement platform with live voice interviews
+- 🤖 Built **[HireSense](https://github.com/kaushal-o4/hiresense)**, an AI-powered interview & placement platform with live voice interviews
 - 🎯 I care about clean UI, correct business logic and code that is **tested**
 - 💼 **Open to** freelance projects, internships and full-time developer roles
 - 📫 Reach me at **[kaushalsurya9199@gmail.com](mailto:kaushalsurya9199@gmail.com?subject=Project%20%2F%20Job%20opportunity%20for%20Kaushal)**
@@ -55,11 +55,16 @@ Paste a resume and a job description. Get an **ATS match score**, missing skills
 <tr>
 <td colspan="2">
 
-### 🤖 HireSense: AI Interview & Placement Platform &nbsp;<img src="https://img.shields.io/badge/status-coming%20soon-f59e0b?style=flat-square" alt="coming soon" />
+### 🤖 [HireSense: AI Interview & Placement Platform](https://github.com/kaushal-o4/hiresense)
+<sub>Team project · 5 members</sub>
 
-An end-to-end placement platform with **Student, Recruiter, Admin and Mentor** portals. Students take **live voice interviews with 3D AI interviewers** that listen, transcribe and score answers in real time, plus resume analysis, practice tests and progress reports.
+<a href="https://github.com/kaushal-o4/hiresense"><img src="https://raw.githubusercontent.com/kaushal-o4/hiresense/main/docs/screenshots/voice-interview.png" alt="HireSense live voice interview" /></a>
 
-`React` `Tailwind` `FastAPI` `Python` `MongoDB` `LLMs (Gemini / Ollama)` `Whisper` `three.js`
+An end-to-end placement platform with **Student, Recruiter, Admin and Mentor** portals. Students take **live voice interviews with 3D AI interviewers** that listen, transcribe and score answers in real time, plus resume analysis, job matching, English practice with spaced vocabulary review, and progress reports. Recruiters compare candidates side by side and export reports. **369 backend + 141 frontend tests** run in CI on every push.
+
+`React` `Tailwind` `FastAPI` `Python` `MongoDB` `LLMs (Gemini / Ollama)` `Whisper` `three.js` `MediaPipe`
+
+[**Code & screenshots**](https://github.com/kaushal-o4/hiresense)
 
 </td>
 </tr>
